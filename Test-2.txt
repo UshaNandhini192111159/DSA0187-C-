@@ -1,0 +1,5 @@
+1)pattern program
+ 
+2)Delete an element in an array at a specific position
+ 
+
